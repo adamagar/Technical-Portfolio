@@ -37,7 +37,7 @@ Welcome to my Technical Portfolio. This repository serves as a centralized locat
 
 ### Programming Languages
 - [C Language Projects](Your_Link_Here)
-- [Java Development](Your_Link_Here)
+- [Java Development](https://github.com/adamagar/Java-Coding-Exercises)
 
 ### Cloud Computing
 - [AWS Projects](Your_Link_Here)
